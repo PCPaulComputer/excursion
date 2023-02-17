@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+    background-color: #000;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    color: #fff;
+    font-size: 50px;
+}
+
+a {
+    color: #00FFCC;
+    letter-spacing: 1px;
+}
+
+.description, footer {
+    color: #555;
+}
+
+footer {
+    text-align: right;
+}
+
+br {
+    height: 25px;
+}
